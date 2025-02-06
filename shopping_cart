@@ -1,0 +1,15 @@
+Design an Online Shopping Cart Page
+
+Create an HTML version of a shopping cart page for an online shopping website. The page should include the following elements:
+
+Product Image:
+Display a clear image of each product.
+
+Product Description:
+Include the product name and any relevant details.
+
+Product Price:
+Show the cost associated with each product.
+
+Cart Total:
+Calculate and display the total cost for all products added to the cart.
